@@ -1,2 +1,2 @@
 [screenshots]!
-https://github.com/joezsp/Calculator/blob/main/demo.png
+(https://github.com/joezsp/Calculator/blob/main/demo.png)
